@@ -39,7 +39,7 @@ Model the demand for shared bikes with the available independent variables. The 
 
 As per the final Model, the top 3 predictor variables that influences the bike booking are:
 
-- Temperature (temp) - A coefficient value of ‘5514’ indicated that a unit increase in temp variable increases the bike hire numbers by 5514 units.
+- Temperature (temp) - A coefficient value of ‘0.5514’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.5514 units.
 
 - Year (year) - A coefficient value of ‘0.2388’ indicated that a unit increase in year variable increases the bike hire numbers by 0.2388 units.
 
